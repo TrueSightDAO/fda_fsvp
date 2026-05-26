@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "title": "TrueTech Inc / Agroverse FSVP entity index",
+  "description": "Single entry point for LLMs/agents. Points to every machine-readable entity profile in this repository — the FSVP suppliers (suppliers/<name>/entity.json) and TrueTech Inc, the US FSVP + CBP importer of record (truetech_inc.entity.json). Each target file holds legal name, identifiers, address, products, FSVP status, contacts, and a source-document index.",
+  "note": "FDA registration PINs and any personal CPF are intentionally excluded from this public repo.",
+  "importer_of_record": {
+    "legal_name": "TRUETECH INC",
+    "entity_type": "us_importer_entity",
+    "country": "United States",
+    "role_in_network": "FSVP importer of record and CBP importer of record for the Agroverse cacao network; the DAO's primary US legal/operating entity.",
+    "identifiers": {
+      "ein": "88-3411514",
+      "cbp_importer_of_record_number": "88-341151400",
+      "fda_ffr_number": "12202640780",
+      "duns": "119035208"
+    },
+    "path": "truetech_inc.entity.json"
+  },
+  "suppliers": [
+    {
+      "trade_name": "BLACK KING",
+      "legal_name": "MATHEUS REIS PEREIRA",
+      "entity_type": "brazilian_supplier",
+      "country": "Brazil",
+      "location": "Ilhéus, BA, Brazil",
+      "products_supplied": [
+        "cacao nibs",
+        "cacao mass",
+        "cacao molasses",
+        "cacao tea",
+        "cacao husk",
+        "ceremonial cacao",
+        "caramelized cacao"
+      ],
+      "identifiers": {
+        "cnpj": "50.042.585/0001-80",
+        "duns": "628340898",
+        "fda_ffr_number": "19088052616"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/black_king/entity.json"
+    },
+    {
+      "trade_name": "CEPOTX",
+      "legal_name": "COOPERATIVA CENTRAL DE PRODUCAO ORGANICA DA TRANSAMAZONICA E XINGU",
+      "entity_type": "brazilian_supplier",
+      "country": "Brazil",
+      "location": "Altamira, PA, Brazil",
+      "products_supplied": [
+        "organic cacao almonds (amêndoas de cacau)"
+      ],
+      "identifiers": {
+        "cnpj": "22.568.369/0001-38",
+        "duns": "903842053",
+        "fda_ffr_number": "14674182470"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/cepotx/entity.json"
+    },
+    {
+      "trade_name": "COOPERCABRUCA",
+      "legal_name": "COOPERATIVA DOS CACAUICULTORES DO SUL DA BAHIA - COOPERCABRUCA",
+      "entity_type": "brazilian_supplier",
+      "country": "Brazil",
+      "location": "Itabuna, BA, Brazil",
+      "products_supplied": [
+        "cacao nibs",
+        "cacao mass",
+        "cacao molasses"
+      ],
+      "identifiers": {
+        "cnpj": "31.948.811/0001-42",
+        "duns": "946690515",
+        "fda_ffr_number": "17660066140"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/coopercabruca/entity.json"
+    },
+    {
+      "trade_name": "HAU CACAU",
+      "legal_name": "HAU CACAU SUPERALIMENTOS LTDA",
+      "entity_type": "brazilian_supplier",
+      "country": "Brazil",
+      "location": "Porto Alegre, RS, Brazil",
+      "products_supplied": [
+        "cacao mass"
+      ],
+      "identifiers": {
+        "cnpj": null,
+        "duns": "652579636",
+        "fda_ffr_number": "18719939322"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/hau_cacau/entity.json"
+    },
+    {
+      "trade_name": "KOALA DETALLES",
+      "legal_name": "KOALA V & S E.I.R.L.",
+      "entity_type": "peru_supplier",
+      "country": "Peru",
+      "location": "Jaén, Cajamarca, Peru",
+      "products_supplied": [
+        "cacao mass"
+      ],
+      "identifiers": {
+        "fda_ffr_number": "16425142318"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/koala_peru/entity.json"
+    },
+    {
+      "trade_name": "MU GELATO",
+      "legal_name": "MU GELATO SORVETES ARTESANAIS LTDA",
+      "entity_type": "brazilian_supplier",
+      "country": "Brazil",
+      "location": "Florianópolis, SC, Brazil",
+      "products_supplied": [
+        "chocolate-coated coffee bean candy"
+      ],
+      "identifiers": {
+        "cnpj": "23.655.374/0001-40",
+        "duns": "943005334",
+        "fda_ffr_number": "19657644518"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/mu_gelato/entity.json"
+    }
+  ],
+  "counts": {
+    "suppliers_total": 6,
+    "brazil": 5,
+    "other": 1
+  }
+}
