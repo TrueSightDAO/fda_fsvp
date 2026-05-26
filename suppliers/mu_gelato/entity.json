@@ -1,0 +1,65 @@
+{
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "brazilian_supplier",
+  "legal_name": "MU GELATO SORVETES ARTESANAIS LTDA",
+  "trade_name": "MU GELATO",
+  "legal_form": "Sociedade Limitada (Ltda); Micro Enterprise (ME), Simples Nacional",
+  "country": "Brazil",
+  "identifiers": {
+    "cnpj": "23.655.374/0001-40",
+    "inscricao_estadual": "257820434 (SC)",
+    "duns": "943005334",
+    "fda_ffr_number": "19657644518"
+  },
+  "registration": {
+    "opening_date": "2015-11-23",
+    "cadastral_status": "ATIVO",
+    "primary_cnae": "1053800 - Fabricação de sorvetes e outros gelados comestíveis"
+  },
+  "address": {
+    "street": "Rodovia Doutor Antônio Luiz Moura Gonzaga, 128, Loja 01",
+    "neighborhood": "Rio Tavares",
+    "city": "Florianópolis",
+    "state": "SC",
+    "postal_code": "88048-300",
+    "country": "Brazil"
+  },
+  "contacts": [
+    {
+      "name": "Guido Bortoli",
+      "role": "contact",
+      "email": "guidbortoli@gmail.com",
+      "phone": "+55 48 88458843"
+    }
+  ],
+  "products_supplied": [
+    "chocolate-coated coffee bean candy"
+  ],
+  "source_farms": [],
+  "certifications": [
+    "FITOSanitário"
+  ],
+  "fda_fsvp": {
+    "importer_of_record": "TrueTech Inc",
+    "registration_status": "VALID",
+    "registration_created": "2024-09-07",
+    "registration_expiration": "2026-12-31",
+    "written_assurance_on_file": true,
+    "supplier_evaluation_on_file": true
+  },
+  "notes": "Artisanal gelato/chocolate maker in Florianópolis (Santa Catarina); supplies chocolate-coated coffee bean candy as a value-added SKU.",
+  "source_documents": [
+    "20240902_Mu_Gelato_site_visit_Invento_Chocolate.pdf",
+    "20240917_mu_gelato_chocolate_coat_coffee_bean_written_assurance_letter.pdf",
+    "20240924_Mu_Gelato_Eval_chocolate_coated_coffee_bean_candy.pdf",
+    "20250101_fda_registration_mulan_gelato.pdf",
+    "cnpj.pdf",
+    "duns.pdf",
+    "fda.pdf",
+    "mu_gelato_fda_application_submission.pdf"
+  ]
+}

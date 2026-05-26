@@ -1,0 +1,62 @@
+{
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "brazilian_supplier",
+  "legal_name": "HAU CACAU SUPERALIMENTOS LTDA",
+  "trade_name": "HAU CACAU",
+  "legal_form": "Sociedade Limitada (Ltda)",
+  "country": "Brazil",
+  "identifiers": {
+    "cnpj": null,
+    "cnpj_note": "CNPJ document not present in this folder as of compilation; D&B/FDA records on file.",
+    "duns": "652579636",
+    "fda_ffr_number": "18719939322",
+    "fda_ufi": "652579636"
+  },
+  "registration": {
+    "cadastral_status": "Active (FDA registration VALID)"
+  },
+  "address": {
+    "street": "Rua Coronel Massot, 233, Apt 201",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "postal_code": "91910-530",
+    "country": "Brazil",
+    "address_note": "FDA form lists state as 'Santa Catarina' in error; D&B record and city confirm Rio Grande do Sul (RS)."
+  },
+  "contacts": [
+    {
+      "name": "Nadine",
+      "role": "contact",
+      "email": "Nadinehaucacau@gmail.com",
+      "phone": "+55 11 961706059"
+    }
+  ],
+  "products_supplied": [
+    "cacao mass"
+  ],
+  "source_farms": [],
+  "certifications": [
+    "FITOSanitário",
+    "CIC (Cacao Innovation Center)",
+    "IBD NOP organic"
+  ],
+  "fda_fsvp": {
+    "importer_of_record": "TrueTech Inc",
+    "registration_status": "VALID",
+    "registration_created": "2025-10-03",
+    "registration_expiration": "2026-12-31",
+    "written_assurance_on_file": true,
+    "supplier_evaluation_on_file": false
+  },
+  "notes": "Superfoods company (Porto Alegre, RS); newest verified supplier (FFR confirmed Oct 2025). CNPJ record not yet archived in this folder.",
+  "source_documents": [
+    "20251024_HAU_CACAU_Cacao_Mass_Written_assurance_letter.pdf",
+    "Food Facility Registration (FFR).pdf",
+    "duns.pdf",
+    "fda.pdf"
+  ]
+}

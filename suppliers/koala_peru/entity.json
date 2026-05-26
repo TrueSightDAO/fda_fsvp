@@ -1,0 +1,57 @@
+{
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "peru_supplier",
+  "legal_name": "KOALA V & S E.I.R.L.",
+  "trade_name": "KOALA DETALLES",
+  "legal_form": "Empresa Individual de Responsabilidad Limitada (E.I.R.L.) - Peru",
+  "country": "Peru",
+  "identifiers": {
+    "fda_ffr_number": "16425142318",
+    "fda_ufi": "759339886"
+  },
+  "registration": {
+    "cadastral_status": "Active (FDA registration VALID)"
+  },
+  "address": {
+    "street": "Calle Sánchez Carrión Nro. 865, Sec. Morro Solar Alto",
+    "city": "Jaén",
+    "state": "Cajamarca",
+    "postal_code": "06801",
+    "country": "Peru"
+  },
+  "contacts": [
+    {
+      "name": "Andrea Falcón",
+      "role": "contact",
+      "email": "andreafalcon1610@gmail.com",
+      "phone": "+51 927 765343"
+    }
+  ],
+  "products_supplied": [
+    "cacao mass"
+  ],
+  "source_farms": [],
+  "certifications": [
+    "MAPA Peru Phytosanitary Certificate",
+    "CIC (Cacao Innovation Center)",
+    "IBD NOP organic"
+  ],
+  "fda_fsvp": {
+    "importer_of_record": "TrueTech Inc",
+    "registration_status": "VALID",
+    "registration_created": "2025-09-10",
+    "registration_expiration": "2026-12-31",
+    "written_assurance_on_file": true,
+    "supplier_evaluation_on_file": false
+  },
+  "notes": "PERU supplier (not Brazil). Included for completeness of the FSVP supplier network; outside the scope of the proposed Brazilian export CNPJ. Demonstrates the network already spans more than one origin country.",
+  "source_documents": [
+    "20250910_Food_Facility_Registration_FFR_application.pdf",
+    "20250910_KOALA V & S E.I.R.L. Cacao Mass - Written assurance letter.pdf",
+    "fda.pdf"
+  ]
+}

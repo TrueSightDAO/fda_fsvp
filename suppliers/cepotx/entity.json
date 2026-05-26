@@ -1,0 +1,72 @@
+{
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "brazilian_supplier",
+  "legal_name": "COOPERATIVA CENTRAL DE PRODUCAO ORGANICA DA TRANSAMAZONICA E XINGU",
+  "trade_name": "CEPOTX",
+  "legal_form": "Cooperativa (natureza jurídica 214-3)",
+  "country": "Brazil",
+  "identifiers": {
+    "cnpj": "22.568.369/0001-38",
+    "duns": "903842053",
+    "fda_ffr_number": "14674182470"
+  },
+  "registration": {
+    "opening_date": "2015-06-01",
+    "cadastral_status": "ATIVA"
+  },
+  "address": {
+    "street": "Avenida Perimetral, 3966",
+    "neighborhood": "SUDAM II",
+    "city": "Altamira",
+    "state": "PA",
+    "postal_code": "68.374-274",
+    "country": "Brazil"
+  },
+  "contacts": [
+    {
+      "name": "CEPOTX (accounting)",
+      "role": "general",
+      "email": "marcelcontabilidade@gmail.com",
+      "phone": "+55 93 3515-1453 / +55 93 9189-2322"
+    }
+  ],
+  "products_supplied": [
+    "organic cacao almonds (amêndoas de cacau)"
+  ],
+  "source_farms": [
+    "Paulo - La do Sítio (Pará)",
+    "Fazenda Cleide (Pará)"
+  ],
+  "certifications": [
+    "FITOSanitário",
+    "CIC or CVACBA",
+    "IBD NOP organic"
+  ],
+  "fda_fsvp": {
+    "importer_of_record": "TrueTech Inc",
+    "registration_status": "VALID",
+    "registration_created": "2024-06-28",
+    "registration_expiration": "2026-12-31",
+    "written_assurance_on_file": true,
+    "supplier_evaluation_on_file": true
+  },
+  "notes": "Organic cooperative in the Transamazônica/Xingu region of Pará; supplies organic cacao almonds.",
+  "source_documents": [
+    "20240624_CEPOTX_site_visit_to_packing_storage.pdf",
+    "20240624_cepotx_duns_number.pdf",
+    "20240625_CEPOTX_site_visit_to_paulo_farm.pdf",
+    "20240626_CEPOT_cacao_Almonds_Written_assurance_letter.pdf",
+    "20240628_cepotx_cpnj_record.pdf",
+    "20240701_cepotx_supplier_evaluation.pdf",
+    "20240702_CEPOTX_site_visit_to_cleide_farm.pdf",
+    "20240704_Purchase_Order_cepotx_100kg.pdf",
+    "20250101_fda_registration_cepotx.pdf",
+    "20250402_lab_test_330_kg_cacao_almonds.pdf",
+    "20250402_nota_fiscal_330_kg_cacao_almonds.pdf",
+    "fda.pdf"
+  ]
+}

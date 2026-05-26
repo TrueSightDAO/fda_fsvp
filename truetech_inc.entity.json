@@ -1,0 +1,46 @@
+{
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "us_importer_entity",
+  "legal_name": "TRUETECH INC",
+  "country": "United States",
+  "legal_form": "C Corporation (Delaware); IRS Form 1120 filer",
+  "role_in_network": "FSVP importer of record and CBP importer of record for the Agroverse cacao network; the DAO's primary US legal/operating entity.",
+  "identifiers": {
+    "ein": "88-3411514",
+    "cbp_importer_of_record_number": "88-341151400",
+    "fda_ffr_number": "12202640780",
+    "duns": "119035208"
+  },
+  "cbp_status": "CBP Form 5106 on file (no bond). Set up via Magic Custom Brokers (Aug 2023).",
+  "fda_status": {
+    "registration_status": "VALID",
+    "registration_created": "2023-10-09",
+    "registration_expiration": "2026-12-31"
+  },
+  "addresses": {
+    "registered_mailing_delaware": "8 The Green, Ste A, Dover, DE 19901",
+    "cbp_physical_on_file": "3041 Taraval St, San Francisco, CA 94116-2106",
+    "recent_2025": "1968 South Coast Highway #4616, Laguna Beach, CA 92651"
+  },
+  "officer": {
+    "name": "Zhiwen Teh (Gary Teh)",
+    "title": "President",
+    "email": "garyjob@truesight.me"
+  },
+  "service_providers": {
+    "customs_broker": "Magic Custom Brokers (Michelle Francis)",
+    "freight_forwarder": "Seacoast Logistics (Graziela Vedana, Igor Vidovic)"
+  },
+  "notes": "Registered in Delaware in 2022. Holds the FSVP small-importer program covering all suppliers in this repository. The proposed Brazilian export entity (owned via a Próspera-jurisdiction company) would sit upstream of TrueTech on the Brazil export side; TrueTech remains the US import partner / importer of record.",
+  "source_documents": [
+    "20230817 - Gary CBP 5106 registration number.pdf",
+    "20250101_fda_registration.pdf",
+    "CBP 5106 form  - IMPORTER IDENTITY .pdf",
+    "truetech_inc DUNS number.jpeg",
+    "truetech_inc EIN number.pdf"
+  ]
+}
