@@ -1,0 +1,121 @@
+{
+  "compiled_at": "2026-05-26",
+  "compiled_by": "Claude Code (agentic_ai_context per-partner JSON exercise)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "brazilian_supplier",
+  "legal_name": "COOPERATIVA DOS CACAUICULTORES DO SUL DA BAHIA - COOPERCABRUCA",
+  "trade_name": "COOPERCABRUCA",
+  "legal_form": "Cooperativa (natureza jurídica 214-3)",
+  "country": "Brazil",
+  "identifiers": {
+    "cnpj": "31.948.811/0001-42",
+    "duns": "946690515",
+    "fda_ffr_number": "17660066140"
+  },
+  "registration": {
+    "opening_date": "2018-10-30",
+    "cadastral_status": "ATIVA",
+    "primary_cnae": "10.93-7-01 - Fabricação de produtos derivados do cacau e de chocolates"
+  },
+  "address": {
+    "street": "Travessa Belo Horizonte, 166",
+    "neighborhood": "Pontalzinho",
+    "city": "Itabuna",
+    "state": "BA",
+    "postal_code": "45.603-070",
+    "country": "Brazil"
+  },
+  "contacts": [
+    {
+      "name": "Orlantildes Santos Pereira",
+      "role": "President / CEO (per D&B)"
+    },
+    {
+      "name": "Coopercabruca",
+      "role": "general",
+      "email": "coopercabruca@gmail.com",
+      "phone": "+55 73 9138-8884"
+    }
+  ],
+  "products_supplied": [
+    "cacao nibs",
+    "cacao mass",
+    "cacao molasses"
+  ],
+  "source_farms": [
+    "Fazenda Santa Ana (USDA Organic)",
+    "Fazenda Analuana"
+  ],
+  "certifications": [
+    "FITOSanitário",
+    "CIC (Cacao Innovation Center)",
+    "IBD NOP organic"
+  ],
+  "fda_fsvp": {
+    "importer_of_record": "TrueTech Inc",
+    "registration_status": "VALID",
+    "registration_created": "2023-09-17",
+    "registration_expiration": "2026-12-31",
+    "written_assurance_on_file": true,
+    "supplier_evaluation_on_file": true
+  },
+  "notes": "Regional cacao cooperative in southern Bahia; one of Agroverse's earliest verified suppliers (initial site visit 2023-06).",
+  "source_documents": [
+    "01112023_COOPERCABRUCA_CNPJ_records.pdf",
+    "20230602 - Coopercabruca initial site visit.pdf",
+    "20230914 - Gary coopercabruca written assurance letter for FDA.pdf",
+    "20230915 - COOPERCABRUCA Brazilian Government registration CNPJ DA .pdf",
+    "20230917_DUNS.txt",
+    "20230917_food_facility_registration_receipt_code.pdf",
+    "20230917_food_facility_registration_record.pdf",
+    "20230918 - Coopercabruca evaluation declaration.pdf",
+    "20230918 - Coopercabruca facilities site visit.pdf",
+    "20230918 - FDA Facility Assignment Notification (FFR Number_ 17660066140).pdf",
+    "20230918 - Purchase Order - Coopercabruca.pdf",
+    "20230920 - FDA prior notice submissions.pdf",
+    "20230920 - INVOICE - AGROVERSE.docx - Google Docs.pdf",
+    "20230920 - official INVOICE - AGROVERSE.pdf",
+    "20230921 - Coopercabruca site visit.pdf",
+    "20230923 - FDA prior notice submissions 2.pdf",
+    "20230923 - official INVOICE - AGROVERSE.pdf",
+    "20231002 - Coopercabruca rectification steps.pdf",
+    "20231009 - Purchase Order - Coopercabruca.pdf",
+    "20231103-Coopercabruca_shipment_invoice.pdf",
+    "20231109_100KG_flight_from_salvador_to_sfo.pdf",
+    "20231109_100KG_transport_from_Coopercabruca_to_Salvador_invoice.pdf",
+    "20231109_payment_cooperative_for_cacao_nibs_and_freighting.jpeg",
+    "20231117_payment_for_customs_clearance_taxes_airport_handling.pdf",
+    "20231117_payment_for_customs_clearance_taxes_airport_handling_1.jpeg",
+    "20231117_payment_for_customs_clearance_taxes_airport_handling_2.jpeg",
+    "20231118-100KG_custom_clearance.pdf",
+    "20231118-100KG_custom_clearance_cargo_release.pdf",
+    "20231118_100KG_airway_bill_for_portugese_airlines_tap.pdf",
+    "20231118_100KG_fda_web_entry.pdf",
+    "20231118_cargo_handling_at_sfo.pdf",
+    "20231118_payment_for_kitchen.jpeg",
+    "20240620_Coopercabruca_site_visit_CIC.pdf",
+    "20240621_Coopercabruca_site_visit_martinus.pdf",
+    "20240623_coopercabruca_written_assurance_for_cacao_mass.pdf",
+    "20240624_Coopercabruca_cacao_mass_evaluation_declaration.pdf",
+    "20240628_cic_report_v0.pdf",
+    "20240628_cic_report_v1.pdf",
+    "20240628_duns_record.pdf",
+    "20240802_Coopercabruca_evaluation_cacao_molasses.pdf",
+    "20240802_Coopercabruca_site_visit_Analuana_farm.pdf",
+    "20240802_cooperacabruca_written_assurance_letter_for_cacao_molasses.pdf",
+    "20240805 - Purchase Order - Coopercabruca.pdf",
+    "20240814_Coopercabruca_site_visit_santos_factory.pdf",
+    "20241118_fda_prior_notice_24971136.pdf",
+    "20241121_agl6_receipt_for_freighting.jpeg",
+    "20241125_agl6_invoice.pdf",
+    "20241127_Coopercabruca_site_ Fazenda_São_Jorge.pdf",
+    "20241224_Fazenda_Santa_Ana_usda_organic_certificate.pdf",
+    "20241224_Fazenda_Santa_Ana_usda_organic_certificate_conformity.pdf",
+    "20241224_raimundo_povos_da_mata_certificate.jpeg",
+    "20250101_fda_registration_coopercabruca.pdf",
+    "20250116_fda_prior_notice.pdf",
+    "fda.pdf"
+  ]
+}
