@@ -16,7 +16,10 @@
       "fda_ffr_number": "12202640780",
       "duns": "119035208"
     },
-    "path": "truetech_inc.entity.json"
+    "path": "truetech_inc.entity.json",
+    "has_payment_details": true,
+    "payment_methods": ["ACH", "Wire", "SWIFT"],
+    "payment_provider": "Wise Business / Lead Bank"
   },
   "suppliers": [
     {
