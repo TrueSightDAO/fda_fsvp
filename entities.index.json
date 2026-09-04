@@ -18,7 +18,11 @@
     },
     "path": "truetech_inc.entity.json",
     "has_payment_details": true,
-    "payment_methods": ["ACH", "Wire", "SWIFT"],
+    "payment_methods": [
+      "ACH",
+      "Wire",
+      "SWIFT"
+    ],
     "payment_provider": "Wise Business / Lead Bank"
   },
   "suppliers": [
@@ -61,6 +65,21 @@
       },
       "fda_fsvp_status": "VALID",
       "path": "suppliers/cepotx/entity.json"
+    },
+    {
+      "trade_name": "COPOPS",
+      "legal_name": "COOPERATIVA DE PRODUTOS ORGANICOS DE PERPETUO SOCORRO",
+      "entity_type": "brazilian_member_cooperative",
+      "country": "Brazil",
+      "location": "Uruará, PA, Brazil",
+      "products_supplied": [
+        "organic cacao almonds (amêndoas de cacau)"
+      ],
+      "identifiers": {
+        "cnpj": "08.578.736/0001-53"
+      },
+      "fda_fsvp_status": "VALID",
+      "path": "suppliers/copops/entity.json"
     },
     {
       "trade_name": "COOPERCABRUCA",
@@ -132,8 +151,8 @@
     }
   ],
   "counts": {
-    "suppliers_total": 6,
-    "brazil": 5,
+    "suppliers_total": 7,
+    "brazil": 6,
     "other": 1
   }
 }
