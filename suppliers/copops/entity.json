@@ -1,0 +1,62 @@
+{
+  "compiled_at": "2026-09-04",
+  "compiled_by": "Sophia Truesight (autopilot) — public-source verification",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable profile of COPOPS, a singular (member) cooperative within the CEPOTX central system. COPOPS is the sub-cooperative for the Uruará/Transamazônica area; Raimundo & Geniza's Sítio (RG-P1) is a member site.",
+  "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
+  "entity_type": "brazilian_member_cooperative",
+  "legal_name": "COOPERATIVA DE PRODUTOS ORGANICOS DE PERPETUO SOCORRO",
+  "trade_name": "COPOPS",
+  "legal_form": "Cooperativa singular (membro da central CEPOTX)",
+  "country": "Brazil",
+  "identifiers": {
+    "cnpj": "08.578.736/0001-53"
+  },
+  "registration": {
+    "opening_date": "2006-12-28",
+    "cadastral_status": "ATIVA"
+  },
+  "address": {
+    "street": "Rodovia Transamazônica, S/N — KM 170 Norte",
+    "neighborhood": "Zona Rural",
+    "city": "Uruará",
+    "state": "PA",
+    "postal_code": "68140-000",
+    "country": "Brazil"
+  },
+  "activity": {
+    "cnae_main": "G-4623-1/05 — Comércio atacadista de cacau",
+    "products": [
+      "organic cacao almonds (amêndoas de cacau)"
+    ]
+  },
+  "officers": [
+    {
+      "name": "RAIMUNDO SILVA",
+      "role": "Presidente",
+      "since": "2018-09-19"
+    },
+    {
+      "name": "JOAO APARECIDO SILVA DO NASCIMENTO",
+      "role": "Diretor",
+      "since": "2018-09-19"
+    },
+    {
+      "name": "SERGIO SILVA VIEIRA",
+      "role": "Diretor",
+      "since": "2022-10-14"
+    }
+  ],
+  "central_network": {
+    "central": "CEPOTX — Cooperativa Central de Produção Orgânica da Transamazônica e Xingu (CNPJ 22.568.369/0001-38, Altamira/PA)",
+    "member_sites": [
+      "Sítio Raimundo & Geniza (RG-P1, Uruará/PA) — site code U-06-07"
+    ]
+  },
+  "notes": "COPOPS is one of CEPOTX's four singular cooperatives (with COOPOXIN, COPOTRAN, COPCAO — per Coopere Mais 2026-07). Presidente Raimundo Silva matches our farmer Raimundo (Uruará plot RG-P1). Site code U-06-07 captured from Raimundo's site app screenshot (governor-provided); pending confirmation at first purchase.",
+  "source_documents": [
+    "(public records) Econodata/CNPJCheck/Serasa — Receita Federal quadro societário",
+    "(public records) Coopere Mais 2026-07 CEPOTX article",
+    "(governor-provided) Raimundo site screenshot showing U-06-07"
+  ]
+}
