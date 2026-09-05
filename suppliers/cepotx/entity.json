@@ -1,13 +1,13 @@
 {
     "compiled_at": "2026-09-05",
-    "compiled_by": "Sophia Truesight (autopilot) \u2014 record addition for 2026-09-03 site visit",
+    "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-03 site visit",
     "schema_version": "1.0",
     "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
     "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
     "entity_type": "brazilian_supplier",
     "legal_name": "COOPERATIVA CENTRAL DE PRODUCAO ORGANICA DA TRANSAMAZONICA E XINGU",
     "trade_name": "CEPOTX",
-    "legal_form": "Cooperativa (natureza jur\u00eddica 214-3)",
+    "legal_form": "Cooperativa (natureza jurídica 214-3)",
     "country": "Brazil",
     "identifiers": {
         "cnpj": "22.568.369/0001-38",
@@ -35,21 +35,21 @@
         }
     ],
     "products_supplied": [
-        "organic cacao almonds (am\u00eandoas de cacau)"
+        "organic cacao almonds (amêndoas de cacau)"
     ],
     "source_farms": [
-        "Paulo - La do S\u00edtio (Par\u00e1)",
-        "Fazenda Cleide (Par\u00e1)",
-        "Santa Anna Fazenda (Par\u00e1) \u2014 site code B-06-58, registered owner Ana Lucia Araujo de Sousa (COOPOXIN)",
-        "Raimundo & Geniza - S\u00edtio Raimundo & Geniza (Uruar\u00e1, Par\u00e1) \u2014 site code U-06-07 (COPOPS member cooperative; Raimundo Silva is COPOPS Presidente)",
-        "Fazenda Santa Rosa (Uruar\u00e1, Par\u00e1) \u2014 site code U-06-06 (COPOPS member cooperative; registered owners Ant\u00f4nio & Gra\u00e7a)"
+        "Paulo - La do Sítio (Pará)",
+        "Fazenda Cleide (Pará)",
+        "Santa Anna Fazenda (Pará) — site code B-06-58, registered owner Ana Lucia Araujo de Sousa (COOPOXIN)",
+        "Raimundo & Geniza - Sítio Raimundo & Geniza (Uruará, Pará) — site code U-06-07 (COPOPS member cooperative; Raimundo Silva is COPOPS Presidente)",
+        "Fazenda Santa Rosa (Uruará, Pará) — site code U-06-06 (COPOPS member cooperative; registered owners Antônio & Graça)"
     ],
     "member_cooperatives": [
-        "COPOPS - Cooperativa de Produtos Org\u00e2nicos de Perp\u00e9tuo Socorro (Uruar\u00e1/PA, CNPJ 08.578.736/0001-53) \u2014 see suppliers/copops/entity.json",
+        "COPOPS - Cooperativa de Produtos Orgânicos de Perpétuo Socorro (Uruará/PA, CNPJ 08.578.736/0001-53) — see suppliers/copops/entity.json",
         "COOPOXIN, COPOTRAN, COPCAO (sibling singular cooperatives)"
     ],
     "certifications": [
-        "FITOSanit\u00e1rio",
+        "FITOSanitário",
         "CIC or CVACBA",
         "IBD NOP organic"
     ],
@@ -61,7 +61,7 @@
         "written_assurance_on_file": true,
         "supplier_evaluation_on_file": true
     },
-    "notes": "Organic cooperative in the Transamaz\u00f4nica/Xingu region of Par\u00e1; supplies organic cacao almonds.",
+    "notes": "Organic cooperative in the Transamazônica/Xingu region of Pará; supplies organic cacao almonds.",
     "source_documents": [
         "20240624_CEPOTX_site_visit_to_packing_storage.pdf",
         "20240624_cepotx_duns_number.pdf",
@@ -77,7 +77,7 @@
         "20260830_CEPOTX_site_visit_to_santa_anna_farm.pdf",
         "20260903_CEPOTX_site_visit_to_raimundo_geniza_farm.pdf",
         "20260903_CEPOTX_site_visit_to_fazenda_santa_rosa_farm.pdf",
-        "site_codes.md \u2014 2026-09-05 producer rosters & site-code registry (video capture, status: reported)",
+        "site_codes.md — 2026-09-05 producer rosters & site-code registry (video capture, status: reported)",
         "fda.pdf"
     ]
 }
