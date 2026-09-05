@@ -1,6 +1,6 @@
 {
     "compiled_at": "2026-09-05",
-    "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-03 site visit",
+    "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-04 site visit",
     "schema_version": "1.0",
     "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
     "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
@@ -42,7 +42,8 @@
         "Fazenda Cleide (Pará)",
         "Santa Anna Fazenda (Pará) — site code B-06-58, registered owner Ana Lucia Araujo de Sousa (COOPOXIN)",
         "Raimundo & Geniza - Sítio Raimundo & Geniza (Uruará, Pará) — site code U-06-07 (COPOPS member cooperative; Raimundo Silva is COPOPS Presidente)",
-        "Fazenda Santa Rosa (Uruará, Pará) — site code U-06-06 (COPOPS member cooperative; registered owners Antônio & Graça)"
+        "Fazenda Santa Rosa (Uruará, Pará) — site code U-06-06 (COPOPS member cooperative; registered owners Antônio & Graça)",
+        "Fazenda Dona Rosa (Medicilândia, Pará) — site code pending CEPOTX assignment; registered owner Rosa Wronscki (COOPOXIN)"
     ],
     "member_cooperatives": [
         "COPOPS - Cooperativa de Produtos Orgânicos de Perpétuo Socorro (Uruará/PA, CNPJ 08.578.736/0001-53) — see suppliers/copops/entity.json",
@@ -77,6 +78,7 @@
         "20260830_CEPOTX_site_visit_to_santa_anna_farm.pdf",
         "20260903_CEPOTX_site_visit_to_raimundo_geniza_farm.pdf",
         "20260903_CEPOTX_site_visit_to_fazenda_santa_rosa_farm.pdf",
+        "20260904_CEPOTX_site_visit_to_dona_rosa_farm.pdf",
         "site_codes.md — 2026-09-05 producer rosters & site-code registry (video capture, status: reported)",
         "fda.pdf"
     ]
