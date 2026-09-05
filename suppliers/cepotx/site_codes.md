@@ -39,10 +39,10 @@ N-06-43/47.
 
 | Site code | Farm / plot | Registered owner | Coop | Source of DAO record |
 |---|---|---|---|---|
-| B-06-58 | Santa Anna Fazenda (SA-P1) | Ana Lucia Araujo de Sousa | COOPOXIN | 2026-08-30 site-visit PDF; fda_fsvp cepotx entity; shop PRs #251/#252 |
-| B-06-108 | Fazenda Cleide (CL-P1) | Cleide Maris Suk | COOPOXIN | roster row 22 + fda_fsvp + 2024-07-02 site-visit PDF |
-| U-06-06 | Fazenda Santa Rosa (SR-P1) | Antônio & Graça | COPOPS | governor-provided translation screenshot (2026-09-05); sunmint plots/index.geojson; shop PRs #288/#289 |
-| U-06-07 | Sítio Raimundo & Geniza (RG-P1) | Raimundo Silva (COPOPS Presidente) | COPOPS | governor-provided site-app screenshot; fda_fsvp copops entity; shop PR #285 |
+| B-06-58 | Santa Anna Fazenda (legacy plot SA-P1) | Ana Lucia Araujo de Sousa | COOPOXIN | 2026-08-30 site-visit PDF; fda_fsvp cepotx entity; shop PRs #251/#252 |
+| B-06-108 | Fazenda Cleide (legacy plot CL-P1) | Cleide Maris Suk | COOPOXIN | roster row 22 + fda_fsvp + 2024-07-02 site-visit PDF |
+| U-06-06 | Fazenda Santa Rosa (legacy plot SR-P1) | Antônio & Graça | COPOPS | governor-provided translation screenshot (2026-09-05); sunmint plots/index.geojson; shop PRs #288/#289 |
+| U-06-07 | Sítio Raimundo & Geniza (legacy plot RG-P1) | Raimundo Silva (COPOPS Presidente) | COPOPS | governor-provided site-app screenshot; fda_fsvp copops entity; shop PR #285 |
 | V-06-29 | La do Sítio | Paulo | ? | AGROVERSE_SUNMINT_FARM_LISTING §6 |
 | N-06-37 | (member property) | Jader Adriano da Silva Santos — CEPOTX President per Rota do Cacau | COOPCAO | roster + public record |
 
