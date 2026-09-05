@@ -6,6 +6,16 @@ The suppliers folder has sub-folders. Each of them represents the repository of 
 
 The regulations folder contains all the documentation of known USA FDA FSVP regulations that we should comply with regarding the FSVP records
 
+## Site inspection documents — signature rule (ALL future docs)
+
+Every site inspection / site visit PDF filed in this repo MUST be signed off with the **official ink signature image** from the private `TrueSightDAO/signature_assets` repo:
+
+- **Asset:** `gary_teh/gary_teh_signature_transparent.png` (transparent PNG, ink-only)
+- **Where:** composited between "Sincerely," and the typed TrueTech block (Zhiwen Teh, President, TrueTech Inc)
+- **Access:** read-only via the narrow-scope `GITHUB_READ_PAT` — NEVER copy the asset into this public repo, a public PR, or a shared chat/group
+- A **plain typed name is NOT acceptable** on a site-visit PDF (rule adopted 2026-09-05, Fazenda Dona Rosa site visit)
+- Full process: `agentic_ai_context/fsvp/SITE_VISIT_PROCESS.md`
+
 ## Machine-readable entity profiles (for LLMs / agents)
 
 Start at **`entities.index.json`** at the repo root — a single index that points to every per-entity profile:
