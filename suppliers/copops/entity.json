@@ -2,7 +2,7 @@
   "compiled_at": "2026-09-04",
   "compiled_by": "Sophia Truesight (autopilot) — public-source verification",
   "schema_version": "1.0",
-  "purpose": "Machine-readable profile of COPOPS, a singular (member) cooperative within the CEPOTX central system. COPOPS is the sub-cooperative for the Uruará/Transamazônica area; Raimundo & Geniza's Sítio (RG-P1) is a member site.",
+  "purpose": "Machine-readable profile of COPOPS, a singular (member) cooperative within the CEPOTX central system. COPOPS is the sub-cooperative for the Uruará/Transamazônica area; Raimundo & Geniza's Sítio (U-06-07) is a member site.",
   "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
   "entity_type": "brazilian_member_cooperative",
   "legal_name": "COOPERATIVA DE PRODUTOS ORGANICOS DE PERPETUO SOCORRO",
@@ -50,10 +50,10 @@
   "central_network": {
     "central": "CEPOTX — Cooperativa Central de Produção Orgânica da Transamazônica e Xingu (CNPJ 22.568.369/0001-38, Altamira/PA)",
     "member_sites": [
-      "Sítio Raimundo & Geniza (RG-P1, Uruará/PA) — site code U-06-07"
+      "Sítio Raimundo & Geniza (U-06-07, Uruará/PA) — site code U-06-07"
     ]
   },
-  "notes": "COPOPS is one of CEPOTX's four singular cooperatives (with COOPOXIN, COPOTRAN, COPCAO — per Coopere Mais 2026-07). Presidente Raimundo Silva matches our farmer Raimundo (Uruará plot RG-P1). Site code U-06-07 captured from Raimundo's site app screenshot (governor-provided); pending confirmation at first purchase.",
+  "notes": "COPOPS is one of CEPOTX's four singular cooperatives (with COOPOXIN, COPOTRAN, COPCAO — per Coopere Mais 2026-07). Presidente Raimundo Silva matches our farmer Raimundo (Uruará plot U-06-07). Site code U-06-07 captured from Raimundo's site app screenshot (governor-provided); pending confirmation at first purchase.",
   "source_documents": [
     "(public records) Econodata/CNPJCheck/Serasa — Receita Federal quadro societário",
     "(public records) Coopere Mais 2026-07 CEPOTX article",
