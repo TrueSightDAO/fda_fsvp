@@ -24,3 +24,15 @@ Start at **`entities.index.json`** at the repo root — a single index that poin
 - `suppliers/<name>/entity.json` — one profile per supplier (legal name, CNPJ/DUNS/FDA FFR, address, products, FSVP status, and an index of that folder's source documents)
 
 These are derived from the committed PDF records. FDA registration PINs and any personal CPF are intentionally excluded.
+
+## Farmer & plot onboarding guide (field tool for FSVP inspections)
+
+For LLMs / agents: the bilingual (EN/PT) illustrated onboarding guide used by Jedielcio (facilitator)
+to photograph a farm + plot and its bean-to-bar equipment with GPS for future FDA FSVP site inspections
+lives in the **agentic_ai_context** repo (committed 2026-09-08):
+
+- **Guide PDF (v6, 9 pp):** `agentic_ai_context/fsvp/FSVP_Onboarding_Guide_EN_PT.pdf`
+- **Operating runbook + policies:** `agentic_ai_context/fsvp/ONBOARDING_GUIDE_EN_PT.md` (search terms that surface it: FSVP, onboarding guide, Jedielcio, melanger, WhatsApp photo protocol, farm onboarding, reforestation plot, CEPOTX site code)
+- **Example photo assets:** `agentic_ai_context/fsvp/assets/` (incl. the Gary-supplied melanger photo, 2026-09-08)
+
+WhatsApp send protocol (v4): the farmer opens the message with **Farm Name + CEPOTX site code** (e.g. La do Sítio — V-06-29) before photos, and sends photos as **documents (not image messages)** so GPS/EXIF survives. Site-code registry: `suppliers/cepotx/site_codes.md`.
