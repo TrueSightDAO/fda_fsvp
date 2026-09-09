@@ -1,6 +1,6 @@
 {
-    "compiled_at": "2026-09-08",
-    "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-07 La do Sítio bean-to-bar site visit",
+    "compiled_at": "2026-09-09",
+    "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-08 Cleide bean-to-bar factory site visit",
     "schema_version": "1.0",
     "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
     "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
@@ -39,7 +39,7 @@
     ],
     "source_farms": [
         "Paulo - La do Sítio (Pará) — site code V-06-29; bean-to-bar facility stage 1 (roaster/winnower/cold-hold) visited 2026-09-07",
-        "Fazenda Cleide (Pará)",
+        "Fazenda Cleide (Pará) — site code B-06-108, registered owner Cleide Maris Suk (COOPOXIN); bean-to-bar factory (fermentation, roasting, winnowing/cracking, melanger, juice press, moulding, cold-hold, storage) visited 2026-09-08",
         "Santa Anna Fazenda (Pará) — site code B-06-58, registered owner Ana Lucia Araujo de Sousa (COOPOXIN)",
         "Raimundo & Geniza - Sítio Raimundo & Geniza (Uruará, Pará) — site code U-06-07 (COPOPS member cooperative; Raimundo Silva is COPOPS Presidente)",
         "Fazenda Santa Rosa (Uruará, Pará) — site code U-06-06 (COPOPS member cooperative; registered owners Antônio & Graça)",
@@ -80,6 +80,7 @@
         "20260903_CEPOTX_site_visit_to_fazenda_santa_rosa_farm.pdf",
         "20260904_CEPOTX_site_visit_to_dona_rosa_farm.pdf",
         "20260907_CEPOTX_site_visit_to_la_do_sitio_bean_to_bar_facility.pdf",
+        "20260908_CEPOTX_site_visit_to_cleide_factory.pdf",
         "site_codes.md — 2026-09-05 producer rosters & site-code registry (video capture, status: reported)",
         "fda.pdf"
     ]
