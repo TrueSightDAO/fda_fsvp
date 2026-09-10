@@ -16,6 +16,22 @@ Every site inspection / site visit PDF filed in this repo MUST be signed off wit
 - A **plain typed name is NOT acceptable** on a site-visit PDF (rule adopted 2026-09-05, Fazenda Dona Rosa site visit)
 - Full process: `agentic_ai_context/fsvp/SITE_VISIT_PROCESS.md`
 
+## Site-visit PDF photos — EXIF orientation rule (learned 2026-09-10)
+
+Site-visit PDFs must embed photos through **`tools/site_visit_images.py`** (`img_flow`),
+never a raw reportlab `RLImage` with a hand-computed box.
+
+Incident: on the Sítio Torres record, `IMG_9682.HEIC` rendered **rotated 90°** — Apple's
+HEIC→JPEG export writes pixels *already upright* but leaves a **stale** EXIF Orientation
+tag (e.g. `6`), and the ad-hoc converter applied `exif_transpose()` on top of that (rotating
+upright pixels sideways) *and* resized every image to a fixed landscape box (squashing
+portraits). reportlab's `RLImage` never consults EXIF and never rescales.
+
+The helper enforces: **(1)** embed pixels AS-IS (no transpose) for Apple HEIC derivatives,
+**(2)** downscale aspect-preserving and return the true pixel size so the layout box matches,
+**(3)** strip the stale tag on write. Pass `respect_exif=True` only for raw sensor JPEGs whose
+tag genuinely describes un-rotated pixels. See the module docstring for the full rationale.
+
 ## Machine-readable entity profiles (for LLMs / agents)
 
 Start at **`entities.index.json`** at the repo root — a single index that points to every per-entity profile:
