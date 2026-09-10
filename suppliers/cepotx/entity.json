@@ -1,6 +1,6 @@
 {
     "compiled_at": "2026-09-10",
-    "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-09 Sítio Torres farm site visit; site code N-06-66 finalized 2026-09-10",
+    "compiled_by": "Sophia Truesight (autopilot) — record addition for the 2026-09-09 Pacajá site visits: Sítio Torres (N-06-66) and Sítio Cacau na Veia (N-06-37)",
     "schema_version": "1.0",
     "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
     "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
@@ -44,7 +44,8 @@
         "Raimundo & Geniza - Sítio Raimundo & Geniza (Uruará, Pará) — site code U-06-07 (COPOPS member cooperative; Raimundo Silva is COPOPS Presidente)",
         "Fazenda Santa Rosa (Uruará, Pará) — site code U-06-06 (COPOPS member cooperative; registered owners Antônio & Graça)",
         "Fazenda Dona Rosa (Medicilândia, Pará) — site code pending CEPOTX assignment; registered owner Rosa Wronscki (COOPOXIN)",
-        "Sítio Torres (Pacajá, Pará) — site code N-06-66 (CEPOTX site code, confirmed with CEPOTX 2026-09-10); member property of the COOPCAO cooperative (CEPOTX family); registered host Alexandre (CoopCao director-coordinator); existing grove (enrichment planting, cacao verdadeiro/híbrido, blocks 2/4/5 yr + >20 yr) plus on-site fermentation and sun-drying, visited 2026-09-09"
+        "Sítio Torres (Pacajá, Pará) — site code N-06-66 (CEPOTX site code, confirmed with CEPOTX 2026-09-10); member property of the COOPCAO cooperative (CEPOTX family); registered host Alexandre (CoopCao director-coordinator); existing grove (enrichment planting, cacao verdadeiro/híbrido, blocks 2/4/5 yr + >20 yr) plus on-site fermentation and sun-drying, visited 2026-09-09",
+        "Sítio Cacau na Veia (Pacajá, Pará) — site code N-06-37 (CEPOTX site code, COOPCAO family); registered owner Jader Adriano da Silva Santos (CEPOTX President, COOPCAO) & wife; mature hybrid cacao agroforest (SAF, 35+ yr) with on-site traditional fermentation (wooden box / barcaça) and covered wooden-rack drying, visited 2026-09-09"
     ],
     "member_cooperatives": [
         "COPOPS - Cooperativa de Produtos Orgânicos de Perpétuo Socorro (Uruará/PA, CNPJ 08.578.736/0001-53) — see suppliers/copops/entity.json",
@@ -83,6 +84,7 @@
         "20260907_CEPOTX_site_visit_to_la_do_sitio_bean_to_bar_facility.pdf",
         "20260908_CEPOTX_site_visit_to_cleide_factory.pdf",
         "20260909_CEPOTX_site_visit_to_sitio_torres_farm.pdf",
+        "20260909_CEPOTX_site_visit_to_cacau_na_veia_farm.pdf",
         "site_codes.md — 2026-09-05 producer rosters & site-code registry (video capture, status: reported)",
         "fda.pdf"
     ]
