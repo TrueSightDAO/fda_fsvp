@@ -1,7 +1,6 @@
 {
     "compiled_at": "2026-09-10",
     "compiled_by": "Sophia Truesight (autopilot) — record addition for 2026-09-09 Sítio Torres farm site visit; site code N-06-66 finalized 2026-09-10",
-    "compiled_at": "2026-09-10",
     "schema_version": "1.0",
     "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
     "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
