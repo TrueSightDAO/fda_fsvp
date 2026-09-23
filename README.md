@@ -6,6 +6,8 @@ The suppliers folder has sub-folders. Each of them represents the repository of 
 
 The regulations folder contains all the documentation of known USA FDA FSVP regulations that we should comply with regarding the FSVP records
 
+> **Note (out-of-domain reference):** `regulations reference documents/` also holds one **non-US-FDA** item — the **SEBRAE NF-e emitter manual** (Brazilian export/tax regulation, `2026-06 - SEBRAE NF-e Emissor Manual v10.pdf`), archived here at the governor's explicit request (2026-09-22, thread 10800). It is outside this repo's US-FDA FSVP scope but is stored by convention alongside the FDA references; do not treat it as US regulation. Source: `agentic_ai_context/brazil/sources/2026-06_sebrae_emissor_nfe_manual_notes.md`.
+
 ## Site inspection documents — signature rule (ALL future docs)
 
 Every site inspection / site visit PDF filed in this repo MUST be signed off with the **official ink signature image** from the private `TrueSightDAO/signature_assets` repo:
