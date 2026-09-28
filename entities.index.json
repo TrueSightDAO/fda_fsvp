@@ -101,6 +101,24 @@
       "path": "suppliers/coopercabruca/entity.json"
     },
     {
+      "trade_name": "FAZENDA SANTA ANA (BAHIA)",
+      "legal_name": null,
+      "entity_type": "brazilian_source_farm",
+      "country": "Brazil",
+      "location": "Urucuca, BA, Brazil",
+      "parent_cooperative": "COOPERCABRUCA",
+      "products_supplied": [
+        "cacao (source farm via Coopercabruca)"
+      ],
+      "identifiers": {
+        "cnpj": null,
+        "duns": null,
+        "fda_ffr_number": null
+      },
+      "fda_fsvp_status": "SOURCE_FARM_OF_VALID_SUPPLIER",
+      "path": "suppliers/fazenda-santa-ana-bahia/entity.json"
+    },
+    {
       "trade_name": "HAU CACAU",
       "legal_name": "HAU CACAU SUPERALIMENTOS LTDA",
       "entity_type": "brazilian_supplier",
@@ -151,8 +169,8 @@
     }
   ],
   "counts": {
-    "suppliers_total": 7,
-    "brazil": 6,
+    "suppliers_total": 8,
+    "brazil": 7,
     "other": 1
   }
 }

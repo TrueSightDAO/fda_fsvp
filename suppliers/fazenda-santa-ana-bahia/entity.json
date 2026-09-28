@@ -1,0 +1,83 @@
+{
+  "compiled_at": "2026-09-28",
+  "compiled_by": "Sophia (TrueSight DAO autopilot) at governor request",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for the Agroverse source farm Fazenda Santa Ana (Bahia).",
+  "excluded_for_privacy": "Personal CPF / FDA registration PINs intentionally omitted (public repo). Contact phone recorded at the governor's explicit request (2026-09-28).",
+  "entity_type": "brazilian_source_farm",
+  "legal_name": null,
+  "trade_name": "Fazenda Santa Ana (Bahia)",
+  "also_known_as": [
+    "Fazenda Santa Ana",
+    "Santa Anna Fazenda (Bahia) - alternative spelling",
+    "Chocolate Morbeck (on-farm craft-chocolate brand)"
+  ],
+  "legal_form": "Source farm / rural property (individual producer)",
+  "country": "Brazil",
+  "identifiers": {
+    "cnpj": null,
+    "duns": null,
+    "fda_ffr_number": null,
+    "note": "Farm-level legal identifiers not on file; Fazenda Santa Ana is a source farm of Coopercabruca (see suppliers/coopercabruca/entity.json)."
+  },
+  "address": {
+    "city": "Urucuca",
+    "state": "BA",
+    "country": "Brazil",
+    "note": "Urucuca region, southern Bahia cabruca cacao belt (~14.32 S, 39.10 W)."
+  },
+  "geo": {
+    "latitude": -14.3242,
+    "longitude": -39.10625,
+    "source": "Centroid of the GPS cluster from the 2023-09-18 site-visit media (151 MOV + 91 HEIC, all GPS-tagged): lat -14.3262..-14.3222, lng -39.1088..-39.1037.",
+    "map_pin": {
+      "latitude": -14.3225976,
+      "longitude": -39.1061207
+    }
+  },
+  "parent_cooperative": {
+    "trade_name": "COOPERCABRUCA",
+    "legal_name": "COOPERATIVA DOS CACAUICULTORES DO SUL DA BAHIA - COOPERCABRUCA",
+    "relationship": "Fazenda Santa Ana is a listed source farm of Coopercabruca (USDA Organic)."
+  },
+  "contacts": [
+    {
+      "name": "Raimundo",
+      "role": "Farm contact / staff (governor-confirmed 2026-09-28)",
+      "phone": "+55 73 99904-2235",
+      "channel": "WhatsApp",
+      "source": "Governor-provided WhatsApp contact card, 2026-09-28 (Telegram thread 38266)."
+    }
+  ],
+  "products_supplied": [
+    "cacao (source farm: nibs / mass / molasses supplied via Coopercabruca)"
+  ],
+  "certifications": [
+    "USDA Organic (via Povos da Mata participatory certification)"
+  ],
+  "site_visits": [
+    {
+      "date": "2023-06",
+      "note": "Coopercabruca regional visit."
+    },
+    {
+      "date": "2023-09-18",
+      "note": "Media site visit - 151 MOV + 91 HEIC; farm page media + SunMint plot FSA-P1 built from this batch."
+    }
+  ],
+  "sunmint": {
+    "plot_ids": [
+      "FSA-P1"
+    ]
+  },
+  "web": {
+    "farm_page": "https://www.agroverse.shop/farms/fazenda-santa-ana-bahia/",
+    "instagram": "https://www.instagram.com/chocolate.morbeck"
+  },
+  "notes": "Southern-Bahia cabruca cacao farm; home of the on-farm craft-chocolate brand Chocolate Morbeck. Source farm for Coopercabruca. IMPORTANT: distinct from the Para 'Santa Anna Fazenda' (Ana Lucia, santa-anna-fazenda-para / CEPOTX site code B-06-58) - do not conflate them (AGROVERSE_FARM_PAGE_CONVENTIONS.md section 7). Ownership is NOT asserted here - governor to confirm.",
+  "related_files": [
+    "suppliers/coopercabruca/20241224_Fazenda_Santa_Ana_usda_organic_certificate.pdf",
+    "suppliers/coopercabruca/20241224_Fazenda_Santa_Ana_usda_organic_certificate_conformity.pdf",
+    "suppliers/coopercabruca/20241224_raimundo_povos_da_mata_certificate.jpeg"
+  ]
+}
