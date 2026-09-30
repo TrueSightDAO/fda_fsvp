@@ -1,0 +1,137 @@
+[
+  {
+    "nfe": 1,
+    "date": "20241104",
+    "chave": "29241150042585000180550010000000011061000061",
+    "value": 2000.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20241104_black_king_export_nfe_29241150042585000180550010000000011061000061.pdf"
+  },
+  {
+    "nfe": 2,
+    "date": "20241104",
+    "chave": "29241150042585000180550010000000021061000069",
+    "value": 4500.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20241104_black_king_export_nfe_29241150042585000180550010000000021061000069.pdf"
+  },
+  {
+    "nfe": 3,
+    "date": "20250130",
+    "chave": "29250150042585000180550010000000031061000065",
+    "value": 544.8,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250130_black_king_export_nfe_29250150042585000180550010000000031061000065.pdf"
+  },
+  {
+    "nfe": 4,
+    "date": "20250219",
+    "chave": "29250250042585000180550010000000041061000066",
+    "value": 2362.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250219_black_king_export_nfe_29250250042585000180550010000000041061000066.pdf"
+  },
+  {
+    "nfe": 5,
+    "date": "20250225",
+    "chave": "29250250042585000180550010000000051061000063",
+    "value": 1125.0,
+    "recipient": "ANDREA CATALINA FALCON RIOS DE PABST",
+    "status": "Autorizada",
+    "file": "20250225_black_king_export_nfe_29250250042585000180550010000000051061000063.pdf"
+  },
+  {
+    "nfe": 6,
+    "date": "20250306",
+    "chave": "29250350042585000180550010000000061061000064",
+    "value": 2000.0,
+    "recipient": "TRUETECH INC",
+    "status": "Cancelada",
+    "file": "20250306_black_king_export_nfe_29250350042585000180550010000000061061000064.pdf"
+  },
+  {
+    "nfe": 7,
+    "date": "20250306",
+    "chave": "29250350042585000180550010000000071061000061",
+    "value": 2000.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250306_black_king_export_nfe_29250350042585000180550010000000071061000061.pdf"
+  },
+  {
+    "nfe": 8,
+    "date": "20250306",
+    "chave": "29250350042585000180550010000000081061000069",
+    "value": 1000.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250306_black_king_export_nfe_29250350042585000180550010000000081061000069.pdf"
+  },
+  {
+    "nfe": 9,
+    "date": "20250306",
+    "chave": "29250350042585000180550010000000091061000066",
+    "value": 500.0,
+    "recipient": "AGNIESKA MARECKA",
+    "status": "Autorizada",
+    "file": "20250306_black_king_export_nfe_29250350042585000180550010000000091061000066.pdf"
+  },
+  {
+    "nfe": 10,
+    "date": "20250401",
+    "chave": "29250450042585000180550010000000101061000060",
+    "value": 800.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250401_black_king_export_nfe_29250450042585000180550010000000101061000060.pdf"
+  },
+  {
+    "nfe": 11,
+    "date": "20250428",
+    "chave": "29250450042585000180550010000000111061000068",
+    "value": 500.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250428_black_king_export_nfe_29250450042585000180550010000000111061000068.pdf"
+  },
+  {
+    "nfe": 12,
+    "date": "20250604",
+    "chave": "29250650042585000180550010000000121061000062",
+    "value": 466.71,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250604_black_king_export_nfe_29250650042585000180550010000000121061000062.pdf"
+  },
+  {
+    "nfe": 13,
+    "date": "20250620",
+    "chave": "29250650042585000180550010000000131061000060",
+    "value": 2250.0,
+    "recipient": "TRUETECH INC",
+    "status": "Cancelada",
+    "file": "20250620_black_king_export_nfe_29250650042585000180550010000000131061000060.pdf"
+  },
+  {
+    "nfe": 14,
+    "date": "20250620",
+    "chave": "29250650042585000180550010000000141061000067",
+    "value": 2250.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250620_black_king_export_nfe_29250650042585000180550010000000141061000067.pdf"
+  },
+  {
+    "nfe": 15,
+    "date": "20250923",
+    "chave": "29250950042585000180550010000000151061000065",
+    "value": 1000.0,
+    "recipient": "TRUETECH INC",
+    "status": "Autorizada",
+    "file": "20250923_black_king_export_nfe_29250950042585000180550010000000151061000065.pdf"
+  }
+]
