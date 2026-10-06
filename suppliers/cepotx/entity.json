@@ -1,6 +1,6 @@
 {
-    "compiled_at": "2026-09-10",
-    "compiled_by": "Sophia Truesight (autopilot) — record addition for the 2026-09-09 Pacajá site visits: Sítio Torres (N-06-66) and Sítio Cacau na Veia (N-06-37)",
+    "compiled_at": "2026-10-06",
+    "compiled_by": "Sophia Truesight (autopilot) — 2026-09-10 Pacajá site visits (Sítio Torres N-06-66, Sítio Cacau na Veia N-06-37); 2026-10-06 added USDA NOP organic certificate (IMOcert cert 6400011336)",
     "schema_version": "1.0",
     "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed PDF records in this folder.",
     "excluded_for_privacy": "FDA registration PINs and any personal CPF are intentionally omitted from this public repo.",
@@ -54,7 +54,29 @@
     "certifications": [
         "FITOSanitário",
         "CIC or CVACBA",
-        "IBD NOP organic"
+        "USDA NOP organic (7 CFR Part 205)"
+    ],
+    "organic_certifications": [
+        {
+            "scheme": "USDA NOP (7 CFR Part 205)",
+            "certifier": "IMOcert Latinoamerica LTDA",
+            "certifier_client_id": "26 11336 NOP",
+            "certificate_number": "6400011336",
+            "nop_operation_id": "6400011336",
+            "effective_date": "2026-10-02",
+            "issue_date": "2026-10-02",
+            "anniversary_date": "2027-07-05",
+            "scopes": ["Crops", "Handling"],
+            "certified_products": [
+                "Cacao (Theobroma cacao) — 113,235.41 kg over 347.40 ha",
+                "Amêndoas de Cacau (processed) — 111,536.88 kg"
+            ],
+            "total_certified_acres": 858.44,
+            "grower_group_size": 50,
+            "verification_url": "https://organic.ams.usda.gov/Integrity/CP/OPP?nopid=6400011336",
+            "received_via": "Email from cepotx.organicos@gmail.com to garyjob@agroverse.shop, 2026-10-06 (subject: CERTIFCADO NOP VALIDO)",
+            "source_document": "20261002_CEPOTX_usda_nop_organic_certificate.pdf"
+        }
     ],
     "fda_fsvp": {
         "importer_of_record": "TrueTech Inc",
@@ -86,6 +108,7 @@
         "20260909_CEPOTX_site_visit_to_sitio_torres_farm.pdf",
         "20260909_CEPOTX_site_visit_to_cacau_na_veia_farm.pdf",
         "site_codes.md — 2026-09-05 producer rosters & site-code registry (video capture, status: reported)",
+        "20261002_CEPOTX_usda_nop_organic_certificate.pdf",
         "fda.pdf"
     ]
 }
