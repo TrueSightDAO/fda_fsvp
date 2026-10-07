@@ -37,15 +37,17 @@ Maintained by: TrueSight DAO Autopilot (Sophia Truesight). Questions → thread 
 - **Submitter/Importer:** TrueTech Inc · **Manufacturer (all 9):** MATHEUS REIS PEREIRA (Brazil)
 - **Filed:** 10/06/2026, PN v15.0.0 · PDF: `suppliers/black_king/20261006_fda_prior_notice_cacao_9_articles_sfo_air.pdf`
 
-| # | Product Name (as filed) | Qty | Net kg | FDA Product Code |
-|---|---|---|---|---|
-| 0001 | Cacao Nibs Kraft Pouch 8oz | 129 UN | 29.26 | `34BGN04` |
-| 0002 | Cacao Mass Bar 500g | 37 UN | 18.50 | `34BDN05` |
-| 0003 | Cacao Nibs 10KG | 80 KG | 80.00 | `34BGN04` |
-| 0004 | Cacao Almonds | 10 KG | 10.00 | `34AHN99` |
-| 0005 | Ceremonial Cacao Kraft Pouch 200g | 169 UN | 33.80 | `34BHN05` |
-| 0006 | Cacao Nibs (KG) | 99.5 KG | 99.50 | `34BGN04` |
-| 0007 | Cacao Tea KG | 21 KG | 21.00 | `34BHN04` |
-| 0008 | Cacao Butter | 5 KG | 5.00 | `34BHN03` |
-| 0009 | Cacao Almonds samples from Para | 5 KG | 5.00 | `34AHN99` |
-| | **TOTAL** | | **302.06** | |
+| # | Product Name (as filed) | Packaging (units × unit size) | Qty | Net kg | FDA Product Code |
+|---|---|---|---|---|---|
+| 0001 | Cacao Nibs Kraft Pouch 8oz | 129 × 8oz pouch (≈0.227 kg) | 129 UN | 29.26 | `34BGN04` |
+| 0002 | Cacao Mass Bar 500g | 37 × 500 g bar | 37 UN | 18.50 | `34BDN05` |
+| 0003 | Cacao Nibs 10KG | 8 × 10 KG bag | 80 KG | 80.00 | `34BGN04` |
+| 0004 | Cacao Almonds | 1 × 10 KG bag | 10 KG | 10.00 | `34AHN99` |
+| 0005 | Ceremonial Cacao Kraft Pouch 200g | 169 × 200 g pouch | 169 UN | 33.80 | `34BHN05` |
+| 0006 | Cacao Nibs (KG) | 10 × 10 KG bag | 100 units-KG (net 99.50) | 99.50 | `34BGN04` |
+| 0007 | Cacao Tea KG | 2 × 10.5 KG bag | 21 KG | 21.00 | `34BHN04` |
+| 0008 | Cacao Butter | 1 × 5 KG block | 5 KG | 5.00 | `34BHN03` |
+| 0009 | Cacao Almonds samples from Para | 1 × 5 KG bag | 5 KG | 5.00 | `34AHN99` |
+| | **TOTAL** | | | **302.06** | |
+
+> **Note (article 0006):** packed as **10 × 10 KG** bags (nominal 100 KG) but the declared **net weight is 99.50 KG** — a fill/top-limit variance. Packaging shown as supplied by the governor; net weight is authoritative as filed on the PN.
