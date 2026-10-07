@@ -43,6 +43,16 @@ Start at **`entities.index.json`** at the repo root — a single index that poin
 
 These are derived from the committed PDF records. FDA registration PINs and any personal CPF are intentionally excluded.
 
+## FDA product codes (PNSI) — durable reference
+
+Every US food import must carry **FDA product codes** on the Prior Notice (PNSI). The canonical
+product → code lookup now lives at **`FDA_PRODUCT_CODES.md`** (repo root) so filings no longer
+have to be reverse-engineered from past PN PDFs. It also records provenance (codes with a filed-PN
+precedent vs codes endorsed by the governor) and the PN **F26X30142399** article list.
+
+> ⚠️ **"Cacao Almonds" = cocoa BEANS** (Portuguese *amêndoas de cacau*), **not** tree nuts/almonds.
+> Do not file cacao almonds under allergen/nut codes.
+
 ## Farmer & plot onboarding guide (field tool for FSVP inspections)
 
 For LLMs / agents: the bilingual (EN/PT) illustrated onboarding guide used by Jedielcio (facilitator)
