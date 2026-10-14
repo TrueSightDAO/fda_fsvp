@@ -38,6 +38,7 @@ tag genuinely describes un-rotated pixels. See the module docstring for the full
 
 Start at **`entities.index.json`** at the repo root — a single index that points to every per-entity profile:
 
+- `truesight_dao_llc_prospera.entity.json` — TrueSight DAO LLC, the Próspera ZEDE (Honduras) **trading company** that coordinates the Agroverse trade flow (the Company leg between the Export Partners and TrueTech Inc)
 - `truetech_inc.entity.json` — TrueTech Inc, the US FSVP + CBP importer of record
 - `suppliers/<name>/entity.json` — one profile per supplier (legal name, CNPJ/DUNS/FDA FFR, address, products, FSVP status, and an index of that folder's source documents)
 
