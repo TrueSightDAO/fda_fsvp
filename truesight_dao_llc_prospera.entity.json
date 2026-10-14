@@ -1,0 +1,143 @@
+{
+  "compiled_at": "2026-10-14",
+  "compiled_by": "Sophia Truesight (autopilot) \u2014 swept the Pr\u00f3spera/Honduras entity documents (thread 42148)",
+  "schema_version": "1.0",
+  "purpose": "Machine-readable entity profile for future LLM/agent access. Derived index of the committed records in the 'notarizations' and 'agentic_ai_context' repos.",
+  "excluded_for_privacy": "Personal identifiers (CPF, passport number) and personal residential addresses are intentionally omitted from this public repo.",
+  "entity_type": "prospera_trade_entity",
+  "legal_name": "TrueSight DAO LLC",
+  "display_name": "TrueSight DAO LLC (Pr\u00f3spera ZEDE)",
+  "legal_form": "Limited Liability Company (LLC), manager-managed",
+  "country": "Republic of Honduras",
+  "jurisdiction": {
+    "zone": "Pr\u00f3spera ZEDE",
+    "locality": "Roat\u00e1n, Islas de la Bah\u00eda",
+    "legal_instrument": "Roat\u00e1n Common Law Code (RCLC), Div. 3, Chap. 7, \u00a7 3707 \u2014 Uniform Limited Liability Company Act (ULLCA)",
+    "registry_name": "Pr\u00f3spera ZEDE \u2014 PZ Entity Registry",
+    "registry_contact_email": "ots@prosperazede.hn"
+  },
+  "status": "Formed / Approved",
+  "registration": {
+    "number": "86901452542528",
+    "number_label_on_document": "OFFICIAL RESIDENT PERMIT NO.",
+    "number_source": "Pr\u00f3spera ZEDE official seal, stamped on Certificate of Organization pages 2 and 4 (embedded image, not the PDF text layer).",
+    "caveat": "The seal is labelled 'Official Resident Permit No.' \u2014 confirm via the ePr\u00f3spera portal whether the entity registration number differs from this value."
+  },
+  "dates": {
+    "certificate_of_organization_signed": "2026-07-07",
+    "entity_application_approved": "2026-07-07",
+    "operating_agreement_effective": "2026-07-01",
+    "operating_agreement_version": "1.0"
+  },
+  "authorization": {
+    "dao_proposal": "#18 \u2014 'Establish Legal Holding Entity for Brazil Export Operations' (Path A \u2014 Pr\u00f3spera LLC)",
+    "merged": "2026-07-01",
+    "structure": "Coordination/trade entity; partner-network (does NOT own a Brazilian subsidiary)."
+  },
+  "offices": {
+    "registered_office_honduras": "Beta Building, Oficina 6, Pr\u00f3spera ZEDE, St. John's Bay, Islas de la Bah\u00eda, 34101, Honduras",
+    "principal_office": "Florian\u00f3polis, SC, Brazil (personal residential detail redacted from this public repo)"
+  },
+  "roles": {
+    "registered_agent": {
+      "name": "Prospera Employment Solutions LLC",
+      "short_name": "PES",
+      "address": "Beta Building, Oficina 6, Pr\u00f3spera ZEDE, St. John's Bay, Islas de la Bah\u00eda, 34101, Honduras"
+    },
+    "organizer": {
+      "name": "Hugo Alain Charles Mathecowitsch",
+      "note": "Organizer per the Certificate of Organization (personal address redacted from this public repo)."
+    },
+    "managing_member_president": {
+      "name": "Gary Teh (Zhiwen Teh)",
+      "role_note": "Non-rotating continuity signatory; changes only by Member vote. Personal identifiers redacted from this public repo."
+    },
+    "governor_board": "Top-10 contributors by trailing-180-day TDG (auto re-seated each solstice/equinox)."
+  },
+  "governance": {
+    "manager": "Governor Board (ex officio, top-10 by trailing-180-day TDG)",
+    "members": "TDG holders on the Main Ledger; Units proportional to TDG, fixed by Snapshots on each Seating Date",
+    "voting": "1 Unit = 1 vote on entity (ULLCA) matters; DAO Proposal Process for DAO matters",
+    "dispute_resolution": "Pr\u00f3spera Arbitration Center (pac.hn), Pr\u00f3spera Arbitration Statute \u00a7 2-1-37",
+    "tax": "Pr\u00f3spera Business Income Tax ~1%; Retail VAT ~2.5% (within Pr\u00f3spera spatial competence)"
+  },
+  "role_in_network": "The Company leg of the triangular trade: Brazil Export Partners -> Company (Pr\u00f3spera) -> US Import Partner (TrueTech Inc). Coordinates, finances, and books the Agroverse trade flow; partner-network structure (owns no Brazilian subsidiary).",
+  "trade_structure": {
+    "pattern": "Triangular: Brazil Export Partners -> Company (Pr\u00f3spera) -> U.S. Import Partner (TrueTech Inc) -> retailers",
+    "export_partners": [
+      {
+        "trade_name": "BLACK KING",
+        "legal_name": "MATHEUS REIS PEREIRA",
+        "cnpj": "50.042.585/0001-80",
+        "entity_profile": "suppliers/black_king/entity.json"
+      },
+      {
+        "trade_name": "COOPERCABRUCA",
+        "legal_name": "COOPERATIVA DOS CACAUICULTORES DO SUL DA BAHIA",
+        "cnpj": "31.948.811/0001-42",
+        "entity_profile": "suppliers/coopercabruca/entity.json"
+      },
+      {
+        "trade_name": "CEPOTX",
+        "legal_name": "COOPERATIVA CENTRAL DE PRODUCAO ORGANICA DA TRANSAMAZONICA E XINGU",
+        "cnpj": "22.568.369/0001-38",
+        "entity_profile": "suppliers/cepotx/entity.json"
+      }
+    ],
+    "import_partner_us": {
+      "legal_name": "TRUETECH INC",
+      "entity_profile": "truetech_inc.entity.json"
+    }
+  },
+  "related_entities_note": "The Company and each Trade Partner are distinct legal persons; none is a subsidiary or agent of the Company; all dealings are at arm's length (Operating Agreement \u00a7\u00a7 11.1, 20.2).",
+  "source_documents": [
+    {
+      "type": "Certificate of Organization (formation/charter instrument)",
+      "repo": "notarizations",
+      "path": "20261014131753_gary_teh_truesight_dao_llc_prospera_certificate_of_organization.pdf",
+      "date": "2026-07-07",
+      "pages": 4,
+      "language": "bilingual EN/ES"
+    },
+    {
+      "type": "Operating Agreement \u2014 FINAL v1.0 (executed/sealed)",
+      "repo": "notarizations",
+      "path": "20261014131824_gary_teh_truesight_dao_llc_prospera_operating_agreement_final_v1.0.pdf",
+      "pages": 15,
+      "date": "effective 2026-07-01; sealed 2026-10-14",
+      "notes": "Carries the DAZ digital-signature seal on every page; canonical PDF."
+    },
+    {
+      "type": "Operating Agreement \u2014 source (Markdown)",
+      "repo": "agentic_ai_context",
+      "path": "PROSPERA_ENTITY_OPERATING_AGREEMENT.md",
+      "notes": "Textually FINAL v1.0; contains bracketed placeholders to reconcile against the Certificate of Organization."
+    },
+    {
+      "type": "Entity application approval email (ePr\u00f3spera)",
+      "repo": "notarizations",
+      "path": "20260708023012_gary_teh_prospera_entity_application_approved.pdf",
+      "date": "2026-07-07"
+    },
+    {
+      "type": "Power of Attorney \u2014 Brazil-arm setup (to Paloma Pinheiro Lecheta)",
+      "repo": "notarizations",
+      "path": "20261013111620_zhiwen_teh_procuracao_publica_paloma_pinheiro_lecheta_brazil_setup.pdf",
+      "date": "2026-10-13",
+      "pages": 5,
+      "validation_code": "UE6ZM-73YHZ-DNBAE-PJBWE",
+      "notes": "Authorizes constituting the Brazilian entity / obtaining CNPJ / RDE-IED registration."
+    }
+  ],
+  "linked_documents": {
+    "human_readable_index": "notarizations/ENTITY_LEGAL_DOCS.md",
+    "structuring_brief": "agentic_ai_context/briefs/BRAZIL_EXPORT_ENTITY_BRIEF.md",
+    "lane_learnings": "agentic_ai_context/brazil/BRAZIL_EXPORT_LANE_LEARNINGS.md"
+  },
+  "open_items": [
+    "Confirm via the ePr\u00f3spera portal whether the entity registration number differs from Resident Permit No. 86901452542528.",
+    "Reconcile the Operating Agreement's bracketed placeholders (registered agent, registered office, Seating Date) against the Certificate of Organization.",
+    "Archive the Brazilian entity's output documents (contrato social, CNPJ card, RDE-IED) once the setup is complete.",
+    "Reconcile the Operating Agreement effective/signed date discrepancy (2026-07-01 vs 2026-07-18)."
+  ]
+}
